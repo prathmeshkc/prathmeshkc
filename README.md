@@ -1,6 +1,8 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io) 
 <h1 align="center">Hi 👋, I'm Prathmesh</h1>
-<p align="center">I'm a Software Engineering graduate student at Northeastern University. I am an aspiring Mobile application developer and have a strong passion for Android development. I am always looking for opportunities to work in a team environment and seek mentorship.</p>
+<h3 align="left">A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h3>
+
+<p align="left">I'm a Software Engineering graduate student at Northeastern University. I am an aspiring Mobile application developer and have a strong passion for Android development. I am always looking for opportunities to work in a team environment and seek mentorship.</p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
