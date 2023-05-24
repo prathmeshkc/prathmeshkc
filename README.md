@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Android, Kotlin**
 
-- 📫 How to reach me **prathmeshkc2001@gmail.com**
+- 📫 How to reach me **chaudhari.prat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
