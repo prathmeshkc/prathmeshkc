@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathmeshkc&label=Profile%20views&color=0e75b6&style=flat" alt="prathmeshkc" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/_prathmeshc" target="blank"><img src="https://img.shields.io/twitter/follow/_prathmeshc?logo=twitter&style=for-the-badge" alt="_prathmeshc" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_prathmeshc" target="_blank"><img src="https://img.shields.io/twitter/follow/_prathmeshc?logo=twitter&style=for-the-badge" alt="_prathmeshc" /></a> </p>
 
 - 🌱 I’m currently learning **Spring Boot, iOS Development**
 
