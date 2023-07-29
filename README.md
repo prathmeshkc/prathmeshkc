@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **iOS Development**
 
-- 💬 Ask me about **Android, Kotlin**
+- 💬 Ask me about **Android, Kotlin, System Design**
 
 - 📫 How to reach me **chaudhari.prat@gmail.com**
 
