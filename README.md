@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Prathmesh</h1>
 <h3 align="left">A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h3>
 
-<p align="left">I'm a Software Engineering graduate student at Northeastern University. I am an aspiring Software Engineer and have a strong passion for Mobile Engineering. I am always looking for opportunities to work in a team environment and seek mentorship.</p>
+<p align="left">I recently graduated from Northeastern University. I'm a Software Engineer with a strong passion for Mobile Engineering. I am always looking for opportunities to work in a team environment and seek mentorship.</p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -12,9 +12,9 @@
 
 <p align="left"> <a href="https://twitter.com/_prathmeshc" target="_blank"><img src="https://img.shields.io/twitter/follow/_prathmeshc?logo=twitter&style=for-the-badge" alt="_prathmeshc" /></a> </p>
 
-- 🌱 I’m currently learning **iOS Development**
+- 🌱 I’m currently improving my interviewing skills
 
-- 💬 Ask me about **Android, Kotlin, System Design**
+- 💬 Ask me about **Android, Kotlin, iOS, Swift, Spring**
 
 - 📫 How to reach me **chaudhari.prat@gmail.com**
 
